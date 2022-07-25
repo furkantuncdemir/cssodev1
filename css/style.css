@@ -1,0 +1,35 @@
+.baslik {
+    font-size: 55px;
+    color: #00D7FF;
+}
+.liste-isim {
+    font-size: 30px;
+    color: #FFB4B4;
+    text-align: center;
+}
+body {
+    background-color: #D4F6CC;
+}
+
+.yazi-ortalama {
+    text-align: center;
+}
+
+ul {
+            overflow: hidden;
+			width: 50%;
+			display: table; 
+			table-layout: fixed;
+			margin: 0px auto;
+			padding: 20px 0px;
+}
+
+ul li {
+			width: auto;
+			text-align: center;
+}
+
+
+footer {
+    text-align: center;
+}
